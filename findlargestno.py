@@ -1,6 +1,6 @@
-a = (input("Enter first number: "))
-b = (input("Enter second number: "))
-c = (input("Enter third number: "))
+a,b,c = (input("Enter first number: "))
+# = (input("Enter second number: "))
+#c = (input("Enter third number: "))
 if (a > b) and (a > c):
   largest = a
 elif (b > a) and (b > c):
