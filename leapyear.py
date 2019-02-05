@@ -5,4 +5,4 @@ elif yr % 100 == 0:
 elif yr % 400 ==0:
     print("yes")
 else:
- print( "no")
+   print( "no")
